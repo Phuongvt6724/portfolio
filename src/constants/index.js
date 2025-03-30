@@ -180,7 +180,7 @@ export const projects = [
     ],
     image: diamond,
     source_code_link: "",
-    live_demo_link: "",
+    live_demo_link: "https://diamond.id.vn/",
     url_file: "./Diamond_Medical_System.pdf",
     url_new: "",
     coming_soon: false,
