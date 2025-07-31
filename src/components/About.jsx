@@ -29,7 +29,7 @@ const ServiceCard = ({ index, title, icon, link }) => (
       >
         {link && (
           <div className="absolute group-hover:opacity-100 opacity-0 duration-300 top-0 left-0 w-full h-full bg-black bg-opacity-50 flex items-center justify-center text-white text-[15px] font-bold">
-            Xem ngay
+            Watch now
           </div>
         )}
         <img
@@ -46,7 +46,7 @@ const ServiceCard = ({ index, title, icon, link }) => (
               className="w-[15px]"
             />
             <span className="text-blue-300 text-[13px] font-bold ml-2">
-              Thành tích
+              Achievements
             </span>
           </span>
           <h3 className="text-white text-[15px] font-medium w-full sm:line-clamp-3 line-clamp-2">

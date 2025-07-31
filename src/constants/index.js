@@ -23,6 +23,7 @@ import {
   achievements_2,
   achievements_3,
   achievements_4,
+  achievements_5,
   Electronics_Ecommerce,
   cosstewn,
   vus_ws
@@ -46,27 +47,33 @@ export const navLinks = [
 export const services = [
   {
     title:
-      "Đạt giải quý quân cuộc thi “TÌM KIẾM TÀI NĂNG JS STAR -SPRING 2024”",
+      'Won Third Prize in the "JS STAR Talent Search - Spring 2024" competition',
     icon: achievements_1,
-    link: "https://www.facebook.com/share/p/197SHLmKZy/",
+    link: 'https://www.facebook.com/share/p/197SHLmKZy/',
   },
   {
     title:
-      "Bài tập Website Thương Mại của môn học – Được đăng tải trên trang tin của trường",
+      "E-commerce Website Assignment Featured on the School's News Portal",
     icon: achievements_2,
-    link: "https://caodang.fpt.edu.vn/tin-tuc-poly/chiem-nguong-website-thuong-mai-day-du-tinh-nang-cua-sinh-vien-lap-trinh-web.html",
+    link: 'https://caodang.fpt.edu.vn/tin-tuc-poly/chiem-nguong-website-thuong-mai-day-du-tinh-nang-cua-sinh-vien-lap-trinh-web.html',
   },
   {
     title:
-      "Đã hoàn thành dự án tốt nghiệp vào ngày 15/01/2025, đánh dấu một bước tiến quan trọng trong quá trình học tập",
+      "Successfully Completed Graduation Project on January 15, 2025 – Marking a Major Milestone in My Academic Journey",
     icon: achievements_3,
-    link: "",
+    link: '',
   },
   {
     title:
-      "Lọt vào danh sách top 150 sinh viên xuất sắc qua 2 kỳ đánh giá trong tổng số 7 kỳ học tập tại trường",
+      "Ranked Among the Top 150 Outstanding Students in 2 Out of 7 Academic Terms",
     icon: achievements_4,
-    link: "",
+    link: '',
+  },
+  {
+    title:
+      "Graduated with excellent student performance in the 2022-2025 academic year",
+    icon: achievements_5,
+    link: '',
   },
 ];
 
@@ -100,7 +107,7 @@ export const experiences = [
     ],
   },
   {
-    title: "Font - end Intern",
+    title: "Front - end Intern",
     company_name: "Itechco Company",
     icon: itechto,
     iconBg: "#161329",
@@ -128,13 +135,13 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "Audio e-commerce",
+    name: "Music Gear E-Commerce",
     description:
-      "Audio e-commerce is an online store specializing in audio equipment and sample pack. This project was developed as a freelance collaboration between me and a friend, completed within one month. We utilized React JS, Laravel, Tailwind CSS, and MySQL to build a fast, responsive, and user-friendly platform.",
+      "Music Gear E-Commerce is an online store specializing in audio equipment and sample pack. This project was developed as a freelance collaboration between me and a friend, completed within one month. We utilized React JS, Laravel, Tailwind CSS, and MySQL to build a fast, responsive, and user-friendly platform.",
     tags: [
       { name: "React JS", color: "blue-text-gradient" },
       { name: "Laravel", color: "pink-text-gradient" },
-      { name: "Tail Wind CSS", color: "pink-text-gradient" },
+      { name: "Tailwind CSS", color: "pink-text-gradient" },
       { name: "My SQL", color: "pink-text-gradient" },
     ],
     image: alogear_ws,
@@ -151,7 +158,7 @@ export const projects = [
     tags: [
       { name: "React JS", color: "blue-text-gradient" },
       { name: "Ant design", color: "pink-text-gradient" },
-      { name: "Tail Wind CSS", color: "pink-text-gradient" },
+      { name: "Tailwind CSS", color: "pink-text-gradient" },
       { name: "Laravel", color: "pink-text-gradient" },
       { name: "My SQL", color: "pink-text-gradient" },
       { name: "Socket.io", color: "green-text-gradient" },
@@ -172,7 +179,7 @@ export const projects = [
       { name: "React JS", color: "blue-text-gradient" },
       { name: "React Native", color: "blue-text-gradient" },
       { name: "Node JS", color: "pink-text-gradient" },
-      { name: "Tail Wind CSS", color: "pink-text-gradient" },
+      { name: "Tailwind CSS", color: "pink-text-gradient" },
       { name: "Shadcn/ui", color: "pink-text-gradient" },
       { name: "Mongo DB", color: "pink-text-gradient" },
       { name: "Socket.io", color: "green-text-gradient" },

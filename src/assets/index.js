@@ -11,6 +11,7 @@ import achievements_1 from "./achievements/js_star_top3.jpg"
 import achievements_2 from "./achievements/achievement_2.jpg"
 import achievements_3 from "./achievements/achievement_3.jpg"
 import achievements_4 from "./achievements/achievement_4.jpg"
+import achievements_5 from "./achievements/achievement_5.jpg"
 import icon_achievement from "./achievements/achievement.png"
 
 // Import tech stack images
@@ -92,6 +93,7 @@ export {
   achievements_2,
   achievements_3,
   achievements_4,
+  achievements_5,
   Electronics_Ecommerce,
   cosstewn,
   alogear,
